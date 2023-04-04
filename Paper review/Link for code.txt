@@ -1,0 +1,15 @@
+(1998) Inductive learning algorithms and representations for text categorization.
+https://github.com/scikit-learn/scikit-learn/blob/main/sklearn/feature_extraction/text.py
+
+(2014) Glove: Global vectors for word representation.
+https://github.com/stanfordnlp/GloVe
+
+(2018) HotpotQA: A Dataset for Diverse, Explainable Multi-hop Question Answering.
+https://github.com/hotpotqa/hotpot
+
+(2020) REALM: Retrieval-Augmented Language Model Pre-Training
+https://github.com/google-research/language/tree/master/language/realm
+
+(2021) End-to-End Training of Multi-Document Reader and
+Retriever for Open-Domain Question Answering
+https://github.com/DevSinghSachan/emdr2
